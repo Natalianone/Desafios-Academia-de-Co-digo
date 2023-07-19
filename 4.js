@@ -1,0 +1,1 @@
+console.log('But even I began to notice there are some things I have a fixed mindset about.');
