@@ -1,2 +1,2 @@
 var myAge = 34 ;
-console.log (myAge + 1);
+console.log (myAge);
